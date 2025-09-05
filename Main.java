@@ -4,6 +4,7 @@ import java.util.Scanner;
 //DATE:  9/5/2025
 //LAB TIME: Friday 10am
 //PROGRAM: CS201-Lab1
+//comment to test VSCode github clinent
 public class Main {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
